@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/0189-rotate-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/0189-rotate-array) |
 | [1260-shift-2d-grid](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -22,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/0189-rotate-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
