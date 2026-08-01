@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/0189-rotate-array) |
+| [0486-predict-the-winner](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/0189-rotate-array) |
+| [0486-predict-the-winner](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/1331-rank-transform-of-an-array) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/0486-predict-the-winner) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
@@ -120,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/vishnumaddheshiya/DSA-Java/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
